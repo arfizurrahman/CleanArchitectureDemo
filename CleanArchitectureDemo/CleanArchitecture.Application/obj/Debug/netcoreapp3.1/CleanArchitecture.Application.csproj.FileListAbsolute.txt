@@ -1,0 +1,12 @@
+C:\Projects\Asp.net Core\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Application\bin\Debug\netcoreapp3.1\CleanArchitecture.Application.deps.json
+C:\Projects\Asp.net Core\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Application\bin\Debug\netcoreapp3.1\CleanArchitecture.Application.dll
+C:\Projects\Asp.net Core\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Application\bin\Debug\netcoreapp3.1\CleanArchitecture.Application.pdb
+C:\Projects\Asp.net Core\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Application\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.dll
+C:\Projects\Asp.net Core\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Application\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.pdb
+C:\Projects\Asp.net Core\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Application\obj\Debug\netcoreapp3.1\CleanArchitecture.Application.csprojAssemblyReference.cache
+C:\Projects\Asp.net Core\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Application\obj\Debug\netcoreapp3.1\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Projects\Asp.net Core\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Application\obj\Debug\netcoreapp3.1\CleanArchitecture.Application.AssemblyInfoInputs.cache
+C:\Projects\Asp.net Core\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Application\obj\Debug\netcoreapp3.1\CleanArchitecture.Application.AssemblyInfo.cs
+C:\Projects\Asp.net Core\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Application\obj\Debug\netcoreapp3.1\CleanArchitecture.Application.csproj.CopyComplete
+C:\Projects\Asp.net Core\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Application\obj\Debug\netcoreapp3.1\CleanArchitecture.Application.dll
+C:\Projects\Asp.net Core\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Application\obj\Debug\netcoreapp3.1\CleanArchitecture.Application.pdb
