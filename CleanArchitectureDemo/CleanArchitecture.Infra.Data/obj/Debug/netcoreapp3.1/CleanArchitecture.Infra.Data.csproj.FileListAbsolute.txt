@@ -1,0 +1,15 @@
+C:\Projects\Asp.net Core\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.deps.json
+C:\Projects\Asp.net Core\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.runtimeconfig.json
+C:\Projects\Asp.net Core\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.runtimeconfig.dev.json
+C:\Projects\Asp.net Core\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.dll
+C:\Projects\Asp.net Core\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.pdb
+C:\Projects\Asp.net Core\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.dll
+C:\Projects\Asp.net Core\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.pdb
+C:\Projects\Asp.net Core\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.csprojAssemblyReference.cache
+C:\Projects\Asp.net Core\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Projects\Asp.net Core\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.AssemblyInfoInputs.cache
+C:\Projects\Asp.net Core\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.AssemblyInfo.cs
+C:\Projects\Asp.net Core\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.csproj.CopyComplete
+C:\Projects\Asp.net Core\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.dll
+C:\Projects\Asp.net Core\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.pdb
+C:\Projects\Asp.net Core\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.genruntimeconfig.cache
